@@ -19,6 +19,7 @@ a {
     font-family: "fira code";
     text-decoration: none;
     margin-right: 30px;
+    transition: transform 200ms linear;
 }
 
 a::before {
@@ -29,14 +30,19 @@ a::before {
     margin-right: 10px;
 }
 
+a:hover {
+    transform: scale(1.05);
+}
+
 #menu-button {
     display: inline-block;
     background-color: #62C370;  
     box-shadow: 5px 5px 0px black;
     padding: 18px 20px; /* sentido horario pq tem 4 lados */
     margin-right: 0;
+    transition: transform 100ms linear;
 }
 
 #menu-button:hover  {
-    background-color: yellow;
+    transform: scale(1.05);
 }
