@@ -56,17 +56,6 @@ a:hover {
     background-color: #3A4042;
     box-shadow: 10px 10px 0px black;
     text-align: center;
-    text-shadow: 5px 5px 0 black;
 }
 
-.main h1 {
-    font-family: 'Press Start 2P';
-    font-size: 40px;
-    color: #62C370;
-}
 
-.main h2 {
-    font-family: 'Press Start 2P';
-    font-size: 30px;
-    color: #FFFFFF;
-}
