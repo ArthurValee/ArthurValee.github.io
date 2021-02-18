@@ -2,8 +2,8 @@
     box-sizing: border-box;
     background-image: url("../../assets/img/img.png");
     background-repeat: no-repeat;
-    background-size: 100% 700px; 
-    height: 700px;
+    background-size: 100%px; 
+    height: 800px;
     border-bottom: 10px solid #000;
 
     padding-top: 115px;
