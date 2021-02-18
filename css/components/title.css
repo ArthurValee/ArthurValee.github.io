@@ -1,7 +1,9 @@
 .title {
-    font-family: 'Press Start 2P';
-    font-size: 40px;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 35px;
     color: #62C370;
-    text-shadow: 4px 4px 0px #000000;
-    margin-bottom: 28px;
-}
+    text-shadow: 4px 4px 0 black;
+  }
+  
+  
+
